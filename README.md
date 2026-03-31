@@ -1,5 +1,5 @@
 # Globelink
-# 国外APP和AI无法使用？解决方法
+# 国外APP和AI无法使用？解决方法（2026）
 
 很多用户在使用国外应用或AI工具时，会遇到以下问题：
 
@@ -10,16 +10,7 @@
 
 ---
 
-## 🎯 为什么会出现这些问题？
-
-部分应用和服务在不同地区的访问环境不同，可能导致：
-
-- 无法连接服务器  
-- 功能受限  
-
----
-
-## ✅ 解决方法（简单有效）
+## 🎯 解决方法（简单有效）
 
 要稳定使用这些服务，你需要一个**更稳定的国际网络访问环境**。
 
@@ -37,7 +28,7 @@
 
 - 安卓手机  
 - Windows电脑  
-- macOS
+- macOS  
 - iOS设备  
 
 ---
@@ -56,6 +47,16 @@
 ## 🔗 访问地址
 
 👉 https://i12a.win/gl  
+
+---
+
+## 📥 客户端下载
+
+👉 Windows 客户端：  
+[点击下载 Windows 客户端](https://github.com/RandellStack/Globelink/releases/download/1.1.7/Globelink_Setup_v1.1.7.1.exe)
+
+👉 Android 客户端：  
+[点击下载 Android APK](https://github.com/RandellStack/Globelink/releases/download/1.1.7/globelink_1.1.7.apk)
 
 ---
 
